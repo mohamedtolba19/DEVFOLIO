@@ -1,0 +1,73 @@
+@media screen and  (min-width:0px) and  (max-width:576px)
+{
+    nav ul li 
+    {
+        margin-right: 0;
+    }
+    .layer h1 
+    {
+        font-size: 35px;
+    }
+  .about
+  {
+    background-color: white !important;
+  }
+  .about1
+  {
+    display: block !important;
+  
+    padding-right: 0 !important;
+    
+  }
+  .about1 ul 
+
+  {
+
+  margin-top: 10px;
+  }
+
+  .about-img img 
+  {
+    width: 100%;
+  }
+  .services
+  {
+    padding: 50px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
